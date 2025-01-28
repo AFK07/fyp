@@ -1,4 +1,3 @@
-# main.py
 
 from kivy.app import App
 from frontend.frontend import CameraInterface
