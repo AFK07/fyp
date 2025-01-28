@@ -1,0 +1,3 @@
+pip install kivy
+pip install kivy[base] kivy[media]
+pip install buildozer
